@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on &#39;/home/andrews/&#39;</title>
+        <link>https://andrewsferreira.github.io/posts/</link>
+        <description>Recent content in Posts on &#39;/home/andrews/&#39;</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+        <atom:link href="https://andrewsferreira.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>/welcome/</title>
+            <link>https://andrewsferreira.github.io/posts/2024/01/welcome/</link>
+            <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+            
+            <guid>https://andrewsferreira.github.io/posts/2024/01/welcome/</guid>
+            <description>Introduction This will be a space dedicated to sharing studies and knowledge acquired during my personal journey in Cybersecurity and Red Team, which are deemed relevant or may assist those looking to gain more knowledge.</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>This will be a space <strong>dedicated to sharing</strong> studies and knowledge acquired during my personal journey in <strong>Cybersecurity and Red Team</strong>, which are deemed relevant or <em>may assist those looking to gain more knowledge</em>.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
